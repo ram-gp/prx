@@ -1,5 +1,3 @@
-new message created
-line created
-row created
-
-
+<?php
+echo "test the page in prx";
+?>
