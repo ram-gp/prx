@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 <?php
 echo "test the page in prx";
 ?>
+=======
+new message created
+line created
+row created
+
+
+pull the file
+>>>>>>> 0464ca8d385b64df585e61a8264176f075ca0961
