@@ -8,7 +8,7 @@
 <body>
 <div id="github-badge"></div>
 <script type="text/javascript" charset="utf-8">
-  GITHUB_USERNAME="drnic";
+  GITHUB_USERNAME="datamapper";
 </script>
 <script src="http://drnic.github.com/github-badges/dist/github-badge-launcher.js" type="text/javascript"></script>
 </body>
